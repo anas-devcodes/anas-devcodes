@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<h1>🚀 Muhammad Anas</h1>
+<h1>Muhammad Anas</h1>
 
 <p>
-<strong>Senior AI Engineer & Full Stack Developer</strong><br/>
+<strong>Senior AI Engineer</strong><br/>
 LLMs • RAG • AI Systems • MERN • Scalable Architectures
 </p>
 
